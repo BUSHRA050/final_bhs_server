@@ -1,0 +1,1 @@
+{"_id":"658c74c9defc46ad06708482","userId":"658c74c9defc46ad06708480","name":"","location":"","phone":"","email":"","jobDescription":"","objective":"","about":"","image":"","skills":[],"linkedin":"","gitHub":"","education":[],"experience":[],"portFolio":[],"hobbies":[],"viewdComapnies":[],"reviews":[],"category":"","__v":0,"selectedTemplate":"Template1"}
